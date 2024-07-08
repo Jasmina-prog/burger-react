@@ -66,7 +66,7 @@ function App() {
     <>
 
     <div className="sum">
-      <h1>Total sum: <span>{(greens*1) + (cheese*2) + (tomato*1) + (meat*5)}$</span></h1>
+      <h1>Total sum: <span>{(greens*1) + (cheese*2) + (tomato*1.5) + (meat*4)}$</span></h1>
     </div>
     <section>
 
